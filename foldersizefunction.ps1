@@ -5,6 +5,7 @@ function Get-DatastoreFolderSize
 ===========================================================================
 Created by: Ankush Sethi
 Blog:       www.vmwarecode.com
+Change:     Made by Daniel Hanaj
 ===========================================================================
 .SYNOPSIS
 Provide the VMFolder Size Utilization
